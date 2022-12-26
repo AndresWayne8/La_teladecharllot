@@ -1,0 +1,72 @@
+body{
+    font-family: monospace;
+    background-color: beige;
+    font-size: 15px;
+}
+h1{
+    background-color: white;
+    border-radius: 20px;
+}
+h5{
+    position: absolute;
+    left: 570px;
+    text-overflow: clip;
+}
+.img{
+    position: absolute;
+    left: 431px;
+    top: 60px;
+}
+.list-group{
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    border-width: 10px;
+
+}
+h2{
+    position: absolute;
+    top: 530px;
+    left: 200px;
+}
+.deco{
+    top: 630px;
+    left: 280px;
+    position: absolute;
+    padding: 20px;
+    background-color: rgb(38, 56, 3);
+    
+}
+.ami{
+ 
+    top: 630px;
+    left: 500px;
+    position: absolute;
+    padding: 20px;
+    background-color: rgb(38, 56, 3);
+}
+.llave{
+ 
+    top: 630px;
+    left: 750px;
+    position: absolute;
+    padding: 20px;
+    background-color: rgb(38, 56, 3);
+}
+.acce{
+    top: 630px;
+    left: 950px;
+    position: absolute;
+    padding: 20px;
+    background-color: rgb(38, 56, 3);
+}
+.preg{
+    top: 780px;
+    left: 450px;
+    position: absolute;
+
+}
+.form{
+    top: 900px;
+    position: absolute;
+}
